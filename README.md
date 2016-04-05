@@ -28,3 +28,17 @@ Setting up the prerequisites for the Lab.
 
 Azure IoT - Windows 10 IoT Core with Raspberry Pi 3
 <a name="Objectives"></a>
+
+1. Plug the **GHI FEZ HAT** into the **Raspberry Pi**.
+
+	![The FEZ hat connected to the Raspberry Pi device](Images/fezhat-connected-to-raspberri-pi-2.png?raw=true "The FEZ hat connected to the Raspberry Pi device")
+
+	_The FEZ hat connected to the Raspberry Pi device_
+
+
+	![Windows 10 IoT Core with FEZ hat hardware setup](Images/windows-10-iot-core-fez-hat-hardware-setup.png "Windows 10 IoT Core with FEZ hat hardware setup")
+
+	_Windows 10 IoT Core with FEZ hat hardware setup_
+
+
+
